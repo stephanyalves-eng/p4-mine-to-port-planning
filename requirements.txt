@@ -1,0 +1,6 @@
+pandas
+duckdb
+jupyter
+ruff
+nbstripout
+pytest
