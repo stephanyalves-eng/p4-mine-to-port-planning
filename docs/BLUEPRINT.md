@@ -116,8 +116,8 @@ tests/                         # LP small instance, Weibull truth recovery
 
 | Release | Milestone | Content |
 |---|---|---|
-| v0.1 | Sprint 7 (ends 28 Feb 2027) | Calibration, network, LP model, scenarios, forecast |
-| v1.0 | Sprint 8 (ends 14 Mar 2027) | Fleet reliability, integration into the LP, S&OP dashboard, deck, case study |
+| v0.1 | Sprint 7 (ends 14 Mar 2027) | Calibration, network, LP model, scenarios, forecast |
+| v1.0 | Sprint 8 (ends 28 Mar 2027) | Fleet reliability, integration into the LP, S&OP dashboard, deck, case study |
 
 ## 10. Assumptions and risks
 
