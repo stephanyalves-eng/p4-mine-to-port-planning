@@ -1,5 +1,7 @@
 # Project title
 
+Technical design and backlog map: [docs/BLUEPRINT.md](docs/BLUEPRINT.md).
+
 ## Business question
 
 ## Result
